@@ -26,5 +26,6 @@ docker-compose up
 ```
 
 ## Getting access
-create user on /api/user/register/
-get access token on /api/user/token/
+
+create user via /api/user/register/
+get access token via /api/user/token/
