@@ -1,4 +1,5 @@
 # Cinema API
+API service for cinema management written on DRF
 
 ## Installing using GitHub
 Install PostgresSQL and create db
