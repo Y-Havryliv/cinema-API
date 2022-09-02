@@ -17,7 +17,7 @@ set SECRET_KEY=<your secret key>
 python manage.py runserver
 ```
 
-## Getting started with docker
+## Run with docker
 Docker should be installed
 
 ```shell
